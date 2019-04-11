@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TownEntry.unity
+- path: Assets/Scenes/Grandpa_House.unity
   isLoaded: 1
   isActive: 1

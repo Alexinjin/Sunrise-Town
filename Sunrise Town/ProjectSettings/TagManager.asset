@@ -9,6 +9,12 @@ TagManager:
   - Locker
   - PasswordBox
   - Arrow
+  - Digit1
+  - Digit2
+  - Digit3
+  - Digit4
+  - Digit5
+  - Digit6
   layers:
   - Default
   - TransparentFX
@@ -57,4 +63,7 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 163114909
+    locked: 0
+  - name: UI components
+    uniqueID: 3532471859
     locked: 0

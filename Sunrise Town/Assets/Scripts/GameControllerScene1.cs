@@ -7,7 +7,7 @@ public class GameControllerScene1 : MonoBehaviour
     public GameObject LeftButtom;
     public GameObject RightButtom;
     public GameObject MenuBar;
-   
+    public bool found = false;
     Vector3 mousePosition;
 
     void Start()
